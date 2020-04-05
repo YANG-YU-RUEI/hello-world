@@ -1,1 +1,1 @@
-hi,it is in vi Instert mode
+hi,it is in vi Imsert mode,
